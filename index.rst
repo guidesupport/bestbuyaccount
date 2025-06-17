@@ -33,7 +33,7 @@ How to Register for a Best Buy Credit Card Account Online?
 How to Login to BestBuy.AccountOnline.com
 -----------------------------------
 
-- Go to bestbuy.accountonline.com <https://bestbuy.accountonline.com>_
+- Go to `Bestbuy.accountonline.com <https://bestbuy.accountonline.com>`_.
 
 - Enter your User ID and Password
 
@@ -91,6 +91,6 @@ Conclusion
 
 Whether you’re checking your balance, making a payment, or setting up rewards, **BestBuy.AccountOnline.com** is the best place to manage your Best Buy Credit Card account quickly and securely.
 
-Need a setting up Bestbuy Account? Start here:  
+Need a Setting up Bestbuy Account? Start here:  
 👉 `Best Buy Member Sign in <https://bestbuy.accountonline.com>`_
 
