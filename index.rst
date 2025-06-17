@@ -3,7 +3,7 @@ BestBuy.AccountOnline.com – Manage Your Best Buy Credit Card Account Easily
 
 `Bestbuy.accountonline.com <https://bestbuy.accountonline.com>`_ is the official Citibank portal for managing your My Best Buy® Credit Card or Visa® Card. Whether you want to pay your bill, view statements, or activate your card, this website provides a secure and user-friendly platform to handle all your credit account needs.
 
-.. image:: button.png
+.. image:: bestbuyaccountlogin.png
    :alt: BestBuy Account Login Page
    :target: #
 
